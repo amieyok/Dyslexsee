@@ -11,7 +11,7 @@ Revise This module will be used by dyslexic students to test their words knowled
 
 For Parents This module will be used by parents to view the word in the list. They can also add new word to the list.
 
-  Software Requirement:
+Software Requirement:
 
 Windows 10: Operating System
 Java:	Language
@@ -23,7 +23,8 @@ Personal Computer
 Processor
 RAM (8GB)
 External Hard Disk
-  Libraries/ external API used:
+
+Libraries/ external API used:
 
 Google API
 Implementation ‘com.google.android.gms:play-services-vision:11.8.0’
