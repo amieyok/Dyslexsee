@@ -8,39 +8,12 @@ Description of the modules:
 
 There are three modules in DyslexSee Apps:
 
-1.Learn This module will be used by dyslexic students to learn new words. There are two ways of learning which are learning through answering a few questions and learning through homophones.
+1.Learn This module will be used by dyslexic students to learn new words. There are two ways of learning which are learning through
+  answering a few questions and learning through homophones.
 
-2.Revise This module will be used by dyslexic students to test their words knowledge. It will test children by asking them to write the word and by asking them to read the word.
+2.Revise This module will be used by dyslexic students to test their words knowledge. It will test children by asking them to write the
+  word and by asking them to read the word.
 
 3.For Parents This module will be used by parents to view the word in the list. They can also add new word to the list.
 
-Software Requirement:
 
-1.Windows 10: Operating System
-2.Java:	Language
-3.XAMP, Android Studio:	Development platform
-4.phpMyAdmin:	Database system
-
-Hardware Requirement:
-
-1.Personal Computer
-2.Processor
-3.RAM (8GB)
-4.External Hard Disk
-
-Libraries/ external API used:
-
-1.Google API
-  Implementation ‘com.google.android.gms:play-services-vision:11.8.0’
-
-Setting of Development Requirement: This libraries or plugin is required when developing this Dyslexsee application:
-
-1.compileSdkVersion = 26
-2.plugin ‘com.android.application’
-3.buildToolsVersion = “26.0.2”
-4.minSdkVersion = 16
-5.targetSdkVersion = 26
-6.versionCode = 1
-7.Connection for database = compile files (‘libs/mysql-connector-java-5.1.46-bin.jar’)
-8.Voice Output = android.speech.tts.TextToSpeech
-9.Dependencies = implementation ‘com.android.support:design:26.1.0’
